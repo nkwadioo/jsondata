@@ -33,12 +33,10 @@
         "optionName": "",
         "mainMemberName": "",
         "membershipNumber": "1075 zone 7, Ga",
-        "NextOfKin": {
-          "nextOfkin_nextOfkinName": "",
-          "nextOfkin_nextOfkinSurname": "",
-          "nextOfkin_nextOfkinRelation": "",
-          "nextOfkin_nextOfkinContact": ""
-        },
+        "nextOfKinName": "",
+        "nextOfkinSurname": "",
+        "nextOfkinRelation": "",
+        "nextOfkinContact": "",
         "readingWritingDifficulty": "",
         "natureOfReadingWriting": "",
         "hasQualification": "",
