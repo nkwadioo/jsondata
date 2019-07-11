@@ -1,5 +1,64 @@
 {
   "employees": [
-    
+    {
+      "id": 17,
+      "status": "draft",
+      "startDate": "2019/5/5/ - 10:55:17:306",
+      "acceptTermsConditions": "Yes",
+      "ApplicationInfo": {
+        "candidateType": "Occupational Trade",
+        "contractNumber": "5454",
+        "CFOcode": "",
+        "specialisation": "",
+        "alternativeTitle": "",
+        "partQualification": "",
+        "SAQAID": ""
+      },
+      "PersonalInfo": {
+        "firstnames": "4554",
+        "surname": "545444",
+        "workPermitNumber": "",
+        "postalline1": "",
+        "postalline2": "",
+        "postalsurburb": "",
+        "postalcity": "",
+        "postalprovince": ""
+      },
+      "AdditionalInfo": {
+        "sufferMedicalDisorder": "Yes",
+        "natureOfDisorder": "tyrtytuy",
+        "disability": "Yes",
+        "natureOfDisability": "Gauteng",
+        "medicalaidName": "",
+        "optionName": "",
+        "mainMemberName": "",
+        "membershipNumber": "1075 zone 7, Ga",
+        "nextOfKinName": "",
+        "nextOfkinSurname": "",
+        "nextOfkinRelation": "",
+        "nextOfkinContact": "",
+        "readingWritingDifficulty": "",
+        "natureOfReadingWriting": "",
+        "hasQualification": "",
+        "hasStatementOfResults": "",
+        "HighestQualification": "",
+        "MathsAndScience": "",
+        "tradeExperience": ""
+      },
+      "workplaceInfor": [
+        {
+          "WorkplaceProvider": "Tut",
+          "MentorName": "",
+          "WorkplaceApprovalNo": "",
+          "employerReg": "",
+          "contactNo": "",
+          "durationPerWorkplace": "",
+          "address": "1075 zone 7, Ga-Rankuwa, Pretoria",
+          "workScope": ""
+        }
+      ],
+      "knowledgeForm": [],
+      "practicalForm": []
+    }
   ]
 }
